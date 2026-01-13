@@ -1,6 +1,6 @@
 pipeline{
   agnet any
-  :
+  
     stages{
       stage('Checkout'){
         steps{
